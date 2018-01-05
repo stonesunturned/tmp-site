@@ -1,6 +1,5 @@
 ---
 layout: post
-date: 2018 01 04
 title: 'Star Wars: An Impostor's Syndrome'
 ---
 
