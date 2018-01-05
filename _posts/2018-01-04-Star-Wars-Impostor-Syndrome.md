@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Star Wars: An Impostor's Syndrome'
+title: "Star Wars: An Impostor's Syndrome"
 ---
 
 I thought I would begin with something the world just doesn't have enough of: a Star Wars think piece.
