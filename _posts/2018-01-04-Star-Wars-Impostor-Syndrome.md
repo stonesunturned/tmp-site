@@ -1,5 +1,6 @@
 ---
 layout: post
+excerpt_separator: <!--more-->
 title: "Star Wars: An Impostor's Syndrome"
 ---
 
@@ -8,6 +9,7 @@ I thought I would begin with something the world just doesn't have enough of: a 
 I saw Star Wars: The Last Jedi over the holidays. I liked it and there is a lot that I want to say about it, but I am going to start by talking about Luke and why he mattered to me in this movie. It may be relevant that I have not read any of the Extended Universe stuff.
 
 Spoilers for The Last Jedi and A New Hope follow.
+<!--more-->
 
 Luke is on some far-off isolated planet and Rey has gone there with his lightsaber (probably hoping he’ll train her to use it), but Luke is grumpy and closed-off. The Force Awakens told us Luke hadn’t been heard from in a long time and part of this movie’s plot is to tell us why. Luke answers this question early on superficially: he didn’t come to this isolated place because he wanted to be found; he came to die. Alone.
 
