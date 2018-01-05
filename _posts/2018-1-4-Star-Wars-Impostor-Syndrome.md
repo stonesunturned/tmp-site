@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Star Wars: An Impostor's Syndrome
+excerpt: I thought I would begin with something the world just doesn't have enough of: a Star Wars think piece.
+I saw Star Wars: The Last Jedi over the holidays. I liked it and there is a lot that I want to say about it, but I am going to start by talking about Luke and why he mattered to me in this movie. It may be relevant that I have not read any of the Extended Universe stuff.
+Spoilers for The Last Jedi and A New Hope follow.
 ---
 I thought I would begin with something the world just doesn't have enough of: a Star Wars think piece.
 
