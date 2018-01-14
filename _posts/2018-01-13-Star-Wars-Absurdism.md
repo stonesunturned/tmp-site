@@ -18,7 +18,7 @@ To explain more fully, I will go through a few examples, focusing on three main 
 2. In the atonement with the father or the moment where the hero really faces down everything that has happened to them and realizes what they have learned.
 3. Crossing the Return threshold. How can the hero use what they have learned?
 
-I will explain using examples from other stories before returning to The Last Jedi at the end. I have stuck here to more "mythical" examples for the sake of comparison with Star Wars, although most Western stories follow this structure. (Dan Harmon has a lot of great writing about it). For the conquering journey, I will discuss Star Wars: A New Hope and Harry Potter. For the accepting journey, I will discuss The Wizard of Oz and Alice in Wonderland.
+I will explain using examples from other stories before returning to The Last Jedi at the end. I have stuck here to more "mythical" examples for the sake of comparison with Star Wars, although most Western stories follow this structure. For the conquering journey, I will discuss Star Wars: A New Hope and Harry Potter. For the accepting journey, I will discuss The Wizard of Oz and Alice in Wonderland.
 
 ## 1. Crossing the Threshold
 In the hero's journey, the main character is in some world that they've grown up in and usually they are facing some sort of problem with it and then something happens where they have a chance to get out of that old life. Often there is a guide or mentor to help them.
