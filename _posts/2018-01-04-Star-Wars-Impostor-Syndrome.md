@@ -2,6 +2,7 @@
 layout: post
 excerpt_separator: <!--more-->
 title: "Star Wars: An Impostor's Syndrome"
+tags: movies star-wars
 ---
 
 I thought I would begin with something the world just doesn't have enough of: a Star Wars think piece.
