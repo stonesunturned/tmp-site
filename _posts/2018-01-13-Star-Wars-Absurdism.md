@@ -93,7 +93,7 @@ But it is difficult to say that the world has been substantially changed by her 
 Yet, it's not quite an accepting journey. Rey doesn’t just learn to survive the madness of this world of the First Order or whatever world Kylo is going to create. She makes a choice to return to the resistance and fight for change. If you went into the movie expecting a conquering journey, this probably felt lacking, but if you thought it was an accepting journey, this was probably more than you expected.
 
 ### An Absurd Proposal
-Many conquering journeys involve a certain amount of destiny. Sometimes more directly, through bloodlines or lightning scars that make the hero a Chosen One. Others involve hard work and sacrifice, but the hero ultimately learns that these things are worth it because they led to the hero's ability to succeed. Those choice meant something.
+Many conquering journeys involve a certain amount of destiny. Sometimes more directly, through bloodlines or lightning scars that make the hero a Chosen One. Others involve hard work and sacrifice, but the hero ultimately learns that these things are worth it because they led to the hero's ability to succeed. Those choices meant something.
 
 In the acceptance journey, the ultimate lesson is that the world is a crazy, mixed-up place. People will betray you and working hard doesn't magically bring you what you want and you can’t ever really be a Master of Two Worlds. On this journey, your choices don't gain you any heroic position or reward except maybe the ability to survive in such a chaotic world.
 
